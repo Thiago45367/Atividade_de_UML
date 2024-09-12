@@ -1,4 +1,5 @@
 import os
+from models.enums.setor import Setor
 
-os .system("cls || clear")
+
 
